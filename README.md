@@ -92,6 +92,7 @@ Coop | Business Areas | Region/Country | Notes
 [Tecso](http://www.tecso.coop/en/) | Development, Information services | Rosario, Argentina | Founded 2002; 150+ associates
 [Vulk Coop](http://vulk.coop) | Design, Development | Austin, TX, USA | Worker-owned, Founded 2013, Organizers of [Austin Software Co-operatives Meetup](https://www.meetup.com/de-DE/Austin-Software-Co-operatives/)|
 [Webarchitects Co-operative](https://www.webarchitects.coop) | Hosting, Sysadmin | Sheffield, UK | Multi-stakeholder, including workers, organisations and investors |
+[Camplight](https://camplight.net) | web and mobile development, tech consulting | EU, Bulgaria | A digital cooperative that creates experiences for the web, mobile and beyond |
 
 ### Other lists
 
@@ -142,6 +143,7 @@ Coop | Business Areas | Region/Country | Notes
 * [The Case for Technology Worker Coops from a Former Freelancer](https://www.colab.coop/blog/the-case-for-technology-worker-coops-from-a-former-freelancer/)
 * [Post-Capitalist Solutions: How Worker-Owned Tech Co-ops Are Boosting the Solidarity Economy](http://www.occupy.com/article/post-capitalist-solutions-how-worker-owned-tech-co-ops-are-boosting-solidarity-economy#sthash.9q8hqH7v.1klLVNEi.dpbs) (occupy.com)
 * [Incorporating Notes: On Cooperatives, Nonprofits, and Better Accountability](https://colet.space/blog/incorporating-notes/) by the Collective for Liberation, Ecology, and Technology
+* [Tales from a digital cooperative and friends that are evolving human collaboration](https://medium.com/camplight) (by Camplight)
 
 #### Financing / Salaries
 
@@ -194,6 +196,8 @@ Coop | Business Areas | Region/Country | Notes
 * [Cobuy](https://github.com/enspiral-root-systems/cobuy) - Group wholesale purchases as a consumer co-op (by Root Systems).
 * [CoopHub](https://coophub.io) - Git repos from cooperatives around the world!
 * [Up & Go](https://www.upandgo.coop) - Cooperative Home Cleaning Services (by CoLab).
+* [Assista](https://assista.io) - Effortless time tracking for Trello (by Camplight)
+* [Moodlight](https://assista.io) - Emotional intelligence for teams (by Camplight)
 
 <a name="jobs" />
 
